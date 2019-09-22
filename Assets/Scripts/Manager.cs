@@ -173,7 +173,7 @@ public class Manager : MonoBehaviour
         birdList[0].GetComponentInChildren<Text>().enabled = (birdList[0].fitness >= maxFitness && generation != 0);
     }
 
-    void ToggleTimeScale()
+    public void ToggleTimeScale()
     {
         Time.timeScale = Math.Abs(Time.timeScale - 1) < 0.01f ? 10 : 1;
     }
