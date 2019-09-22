@@ -4,8 +4,8 @@ I put together an evolution simulator where birds use the neural network to lear
 Feel free to use this Unity project for your own fun. Check it out on Youtube:
 
 # Assets
-I downloaded the game background from https://opengameart.org/content/game-background-forest, it is published under the CC0 license.
-All other scripts and assets are created by myself. I appreciate if you credit me and I'm interested to see your projects if this one inspired you.
+I downloaded the game background from https://opengameart.org/content/game-background-forest, it is published under the CC0 license. 
+All other scripts and assets I created myself. I appreciate if you credit me and I'm interested to see your projects if this one inspired you.
 
 # Work in progress
 I will develop this project further and maybe I will do a tutorial. Just let me know if you have questions or suggestions.
