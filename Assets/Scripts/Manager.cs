@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿//@author ExoFlow
+//https://github.com/exoflow
+//https://www.youtube.com/channel/UC019wlpKUC9Cae_IocyVRIA
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System;
