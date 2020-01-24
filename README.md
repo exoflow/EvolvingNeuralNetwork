@@ -11,8 +11,4 @@ All other scripts and assets I created myself. I appreciate if you credit me and
 # Work in progress
 I will develop this project further and maybe I will do a tutorial. Just let me know if you have questions or suggestions.
 
-# You can support me here
-https://www.patreon.com/exoflow
-
-Many thanks,
-ExoFlow 
+Many thanks 
