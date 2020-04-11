@@ -1,5 +1,5 @@
 # EvolvingNeuralNetwork
-This project contains a simple implementation of evolving neural networks through random mutations in c#. 
+This project contains a simple implementation of evolving neural networks through random mutations in C#. 
 Generations of birds evolve to finally master flying through obstacles. Feel free to use this Unity project for your own fun. Check it out on Youtube:
 https://youtu.be/3Tjy9F2I5mU
 
